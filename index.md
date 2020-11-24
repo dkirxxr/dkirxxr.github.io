@@ -1,37 +1,46 @@
 # Witaj na mojej stronie!
 
-You can use the [editor on GitHub](https://github.com/dkirxxr/dkirxxr.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Co nie co o mnie
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ Hej! Nazywam się Filip i jestem studentem pierwszego roku.
+ 
+ Moje dwa główne zainteresowania to gry komputerowe i filmy, ale o tym trochę więcej niżej...
 
-### Markdown
+#### Gry
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Mógłbym się tu potężnie rozpisać na temat gier, w którę lubię grać, ale skróce to do jednej, która aktualnie jest chyba moją ulubioną...
 
-```markdown
-Syntax highlighted code block
+**[osu!](https://osu.ppy.sh/home)**
 
-# Header 1
-## Header 2
-### Header 3
+osu! to bardzo wciągająca gra rytmiczna, która polega na klikaniu kółek... Wiem, brzmi to niezbyt ciekawie, ale naprawdę gorąco polecam każdemu, kto chce się sprawdzić!
 
-- Bulleted
-- List
+Sam nie jestem jakoś bardzo wybitnym zawodnikiem, ale mogę się pochwalić tym, że na rankingu światowym mieszcze się w najepszych 30 000 graczy, a w Polsce w najlepszych 1500! (nie kłamię, to jest [mój profil](https://osu.ppy.sh/users/6935771)
 
-1. Numbered
-2. List
+Tak na boku tylko wymienię parę innych gier, którę bardzo lubię: League of Legends, **Minecraft**, Overwatch i pełno innych gierek platformowo-zręcznościowych do pogrania ze znajomymi, tak żebym mógł ich pokonać :).
 
-**Bold** and _Italic_ and `Code` text
+#### Filmy
 
-[Link](url) and ![Image](src)
-```
+Podobnie jak wybitnym zawodnikiem osu! nie jestem, tak samo wielkim znawcą filmów również nie. Jednak staram się zgłębić moją wiedzę w tej dziedzinie i zwracać uwagę na detale, które przeciętny widz przeoczy.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Moimi ulubionymi gatunkami są zdecydowanie dreszczowce i dramaty. Jeśli chodzi o ulubionego aktora/aktorkę, to ciężka sprawa, ale stawiałbym chyba na Matta Damona.
 
-### Jekyll Themes
+Filmy, które według mnie warto zobaczyć:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dkirxxr/dkirxxr.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+> * **Rekwiem dla snu** (2000)
+> * **12 gniewnych ludzi** (1957)
+> * **The Breakfast Club** (1985)
+> * ...reszta kiedyś się pojawi jeszcze...
 
-### Support or Contact
+Filmy, które chcę zobaczyć:
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [] Fierce People
+- [] Adventureland
+- [] Dunkirk
+- [] Manchester by the Sea
+- [] The Assassination of Jesse James by the Coward Robert Ford
+- [] Three Billboards Outside Ebbing, Missouri
+- [] Seven Psychopaths
+- [] The Truman Show
+- [] Dead Poets Society
+
+[Mój profil na IMDb](https://www.imdb.com/user/ur71719521/)
